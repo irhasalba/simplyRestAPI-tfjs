@@ -18,7 +18,7 @@ running dengan cara "npm start"
 
 ### step 4
 
-untuk uji coba apps gunakan endpoint /predict dengan request type json dengan struktur berikut :
+untuk uji coba apps gunakan endpoint /predict dengan request POST type json dengan struktur berikut :
 
 ### Request
 
