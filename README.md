@@ -4,23 +4,23 @@
 
 - sudah terinstall node versi terbaru (reskonmendasi saya yg versi 14 LTS) \*karena saya coba yg versi 16 not supprted dengan tensorflow js
 
-# step 1
+### step 1
 
 clone repo kedalam project menggunakan command "git clone"
 
-# step 2
+### step 2
 
 jalankan "npm install"
 
-# step 3
+### step 3
 
 running dengan cara "npm start"
 
-# step 4
+### step 4
 
 untuk uji coba apps gunakan endpoint /predict dengan request type json dengan struktur berikut :
 
-## Request
+### Request
 
 {
 "payload": {
@@ -30,7 +30,7 @@ untuk uji coba apps gunakan endpoint /predict dengan request type json dengan st
 }
 }
 
-## Response
+### Response
 
 {
 "result": {
