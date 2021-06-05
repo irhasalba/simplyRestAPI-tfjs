@@ -4,6 +4,7 @@
 
 - sudah terinstall node versi terbaru (reskonmendasi saya yg versi 14 LTS) \*karena saya coba yg versi 16 not supprted dengan tensorflow js
 - oiya pastikan sudah terinstal tensorflow versi python juga link download <a href="https://www.tensorflow.org/install"> Tensorflow</a>
+- untuk use case REST API ini saat ini hanya support classify image saja,utk kedepanya saya update lagi
 
 #### opsional
 
